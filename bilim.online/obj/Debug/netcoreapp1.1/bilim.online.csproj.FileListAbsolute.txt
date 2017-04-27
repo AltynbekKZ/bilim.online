@@ -1,0 +1,8 @@
+C:\Users\altynbek.satuov\Desktop\bilim.online\bilim.online\bin\Debug\netcoreapp1.1\bilim.online.deps.json
+C:\Users\altynbek.satuov\Desktop\bilim.online\bilim.online\bin\Debug\netcoreapp1.1\bilim.online.runtimeconfig.json
+C:\Users\altynbek.satuov\Desktop\bilim.online\bilim.online\bin\Debug\netcoreapp1.1\bilim.online.runtimeconfig.dev.json
+C:\Users\altynbek.satuov\Desktop\bilim.online\bilim.online\bin\Debug\netcoreapp1.1\bilim.online.dll
+C:\Users\altynbek.satuov\Desktop\bilim.online\bilim.online\bin\Debug\netcoreapp1.1\bilim.online.pdb
+C:\Users\altynbek.satuov\Desktop\bilim.online\bilim.online\obj\Debug\netcoreapp1.1\bilim.online.AssemblyInfo.cs
+C:\Users\altynbek.satuov\Desktop\bilim.online\bilim.online\obj\Debug\netcoreapp1.1\bilim.online.dll
+C:\Users\altynbek.satuov\Desktop\bilim.online\bilim.online\obj\Debug\netcoreapp1.1\bilim.online.pdb
